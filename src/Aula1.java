@@ -63,7 +63,7 @@ public class Aula1 {
             System.out.println(nr + " x " + tabuada + " = " + (nr * tabuada));
         }
 
-        // Exercício 5 – reservado
+        // Exercício 5
         System.out.println("Digite um número:");
         int vl = scanner.nextInt();
         if(vl % 2 == 0) {
